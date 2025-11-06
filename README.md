@@ -1,4 +1,4 @@
-# 币安期货自动交易策略 / Binance Futures Auto Trading Strategy
+# 期货自动交易策略 / Futures Auto Trading Strategy
 
 ![Python](https://img.shields.io/badge/python-3.7+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
