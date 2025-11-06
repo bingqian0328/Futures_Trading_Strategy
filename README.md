@@ -1,9 +1,5 @@
 # 期货自动交易策略 / Futures Auto Trading Strategy
 
-![Python](https://img.shields.io/badge/python-3.7+-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Status](https://img.shields.io/badge/status-active-success.svg)
-
 一个基于 Python 的币安期货测试网自动交易策略，支持实时价格监听、智能下单和风险控制。
 
 ## 🎯 功能特性
